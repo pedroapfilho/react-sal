@@ -3,15 +3,15 @@ import sal from 'sal.js';
 import 'sal.js/dist/sal.css';
 
 interface IOptions {
-  rootMargin?: string;
-  threshold?: number;
-  animateClassName?: string;
-  disabledClassName?: string;
-  enterEventName?: string;
-  exitEventName?: string;
-  selector?: string;
-  once?: boolean;
-  disabled?: boolean;
+  rootMargin: string;
+  threshold: number;
+  animateClassName: string;
+  disabledClassName: string;
+  enterEventName: string;
+  exitEventName: string;
+  selector: string;
+  once: boolean;
+  disabled: boolean;
 }
 
 interface ISalWrapper {

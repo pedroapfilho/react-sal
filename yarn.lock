@@ -5150,10 +5150,10 @@ safe-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sal.js@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/sal.js/-/sal.js-0.7.1.tgz#25bc28bee1e9b90008ba6e721c7fe9e73e8ecbbf"
-  integrity sha512-F2zOgDqEyGqUmZaYcqHo9Q8zEPhQt5m7oPq7vCrAO7JsQZQZAgeYMwbHksBPWnDp26UxO6wkNqbjf0SPZMemOA==
+sal.js@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/sal.js/-/sal.js-0.7.2.tgz#4c3ca0f8e26f34532e612ed0cf739fde436a3457"
+  integrity sha512-Q/Es+QmIDFpY6lA4/lePCLAxvKJwSt0pBzsi1dDZlfNE7GKZDp7u19Yi53n6ofeaMOZsAT++y0QnlxbqSkqleg==
 
 sane@^4.0.3:
   version "4.1.0"
